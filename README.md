@@ -14,4 +14,5 @@ HTML: Provides the basic structure for the clock display.
 CSS: Adds style and layout to make the clock visually appealing.
 JavaScript: Handles the logic for updating the time dynamically using the Date object and DOM manipulation.
 
-![Uploading Screenshot 2025-01-25 002942.png…]()
+
+![image](https://github.com/user-attachments/assets/b52ad6fc-269e-41f2-aa53-2bc3404c4e8b)
