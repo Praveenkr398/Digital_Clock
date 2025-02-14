@@ -1,5 +1,7 @@
 # Digital_Clock
 
+view live: https://praveenkr398.github.io/Digital_Clock/
+
 Digital Clock
 This is a beginner-friendly digital clock project built using HTML, CSS, and JavaScript. The project demonstrates how to create a functional, real-time clock that displays the current time in hours, minutes, and seconds. It's a great way to learn basic web development concepts, including DOM manipulation, styling, and dynamic updates with JavaScript.
 
